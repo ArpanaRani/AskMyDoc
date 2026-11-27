@@ -6,3 +6,4 @@ chromadb
 ollama
 python-multipart
 pydantic-settings
+langchain-text-splitters==1.2.0
